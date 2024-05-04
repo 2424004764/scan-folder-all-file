@@ -1,0 +1,8 @@
+tkinter
+pyinstaller
+fitz
+tools
+frontend
+PyMuPDF
+python-docx
+pywin32
