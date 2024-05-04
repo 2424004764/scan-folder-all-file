@@ -114,6 +114,18 @@
 
 代码参考：
     1、解析doc、docx：https://blog.csdn.net/weixin_40449300/article/details/79143971
+
+
+来一个测试，我在桌面有一个test文件：
+	![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/e8c0979e-5835-41e7-96c7-cd003798e78f)
+
+扫描一下：
+![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/30d729d2-bf12-456a-b68d-ce372e2c4e6e)
+
+显示扫描到来敏感词，我们点击删除：
+
+敏感词被删除了。![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/a3bc3164-a38a-417f-a32a-c13250494a49)
+
     
 
 可以在consts.py中配置软件的名称和logo：
