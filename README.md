@@ -2,6 +2,7 @@
 使用tkinter开发的一款可扫描并删除本地文件敏感词的Windows软件
 
 可以在consts.py中配置软件的名称和logo：
+
 ![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/90b53d18-f891-4543-aec2-72c261354c86)
 
 支持检测的敏感词：
