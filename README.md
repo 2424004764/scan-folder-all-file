@@ -117,10 +117,10 @@
 
 
 来一个测试，我在桌面有一个test文件：
-	![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/e8c0979e-5835-41e7-96c7-cd003798e78f)
+	![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/e8c0979e-5835-41e7-96c7-cd003798e78f){width=400}
 
 扫描一下：
-![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/30d729d2-bf12-456a-b68d-ce372e2c4e6e)
+![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/30d729d2-bf12-456a-b68d-ce372e2c4e6e){width=400}
 
 显示扫描到来敏感词，我们点击删除：
 
