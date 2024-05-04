@@ -5,6 +5,7 @@
 ![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/90b53d18-f891-4543-aec2-72c261354c86)
 
 支持检测的敏感词：
+
 ![image](https://github.com/2424004764/scan-folder-all-file/assets/24261680/545abe00-6ac1-4e3c-99f5-50fc2a9ac3b8)
 
 如果要支持更多的文件后缀，则需要扩展软件功能：
